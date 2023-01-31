@@ -5,6 +5,7 @@
 //#define TASK2
 //#define TASK3
 //#define TASK4
+#define TASK5
 
 #if TASK1
 
@@ -74,4 +75,7 @@ foreach (char item in numberChar) Console.Write(item);
 //    char c = (char)i;
 //    Console.Write($"{i} = {c} \t"); //digit 48-57
 //}
+#endif
+#if TASK5
+
 #endif
